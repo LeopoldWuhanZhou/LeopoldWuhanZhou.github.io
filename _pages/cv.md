@@ -16,15 +16,16 @@ Education
 
 Experience
 ======
+* Summer 2025: [PKU Algebraic Combinatorics Experience (PACE)][http://faculty.bicmr.pku.edu.cn/~gaoyibo/reu.html]
+  * Beijing International Center for Mathematical Research, Peking University
+  * Mentor: Lei Xue
 * Summer 2024: AI for Mathematics Summer Camp
   * Beijing International Center for Mathematical Research, Peking University
   * Write Lean programs and learn abstract algebra
   
 Skills
 ======
-* Programming language: C/C++, Lean, Latex, Matlab, Python, Verilog
-* Mathematics: Calculus, Linear Algebra, Abstract Algebra, Complex Analysis, Logic, PDE, Probability, Stochastic Processes
-* Physics: General Physics, Analytical Mechanics
+* Programming language: C/C++, Lean, Latex, Matlab, Python, SageMath, Verilog
 * EECS: Basic AI, Analogue Electronics, Digital Electronics
 
 Awards and Scholarship
@@ -52,7 +53,7 @@ Teaching
   {% endfor %}</ul>
 -->
   
-Service and leadership
+Service and Leadership
 ======
 * Fall 2024-Spring 2025: Vice Minister of Academic Department of Student Union
   * School of EECS, Peking University
