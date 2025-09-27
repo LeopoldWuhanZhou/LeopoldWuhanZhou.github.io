@@ -11,7 +11,7 @@ I am a second year undergraduate student from [School of EECS](https://eecs.pku.
 
 My current research interests are algebraic combinatorics. And I want to do something in mathematical physics, algebraic geometry and number theory in the future.
 
-Meanwhile, I'm seek for opportunities in Quantitative Trading, Web3 and Blockchain.
+Meanwhile, I'm seek for opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
 
 I enjoy travelling, hiking, music and occult.
 You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part.
