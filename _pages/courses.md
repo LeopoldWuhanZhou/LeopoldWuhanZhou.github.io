@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+2025 Fall
+======
+* Differential Geometry
+* [Topology](https://www.math.pku.edu.cn/teachers/wangjj/2025fall/index.html)
+* Functions of Real Analysis
+* Quantum Mechanics B
+* Electrodynamics B
+* Thermodynamics and Statistical Mechanics B
+* Judo
+
 2025 Spring
 ======
 * [Probability and Stochastic Processes](/files/Stochastic.pdf)
