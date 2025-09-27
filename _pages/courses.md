@@ -12,7 +12,7 @@ redirect_from:
 ======
 * Differential Geometry
 * [Topology](https://www.math.pku.edu.cn/teachers/wangjj/2025fall/index.html)
-* Functions of Real Analysis
+* Functions of Real Variables
 * Quantum Mechanics B
 * Electrodynamics B
 * Thermodynamics and Statistical Mechanics B
