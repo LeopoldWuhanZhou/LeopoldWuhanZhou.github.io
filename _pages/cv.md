@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* Summer 2025: [PKU Algebraic Combinatorics Experience (PACE)][http://faculty.bicmr.pku.edu.cn/~gaoyibo/reu.html]
+* Summer 2025: [PKU Algebraic Combinatorics Experience (PACE)](http://faculty.bicmr.pku.edu.cn/~gaoyibo/reu.html)
   * Beijing International Center for Mathematical Research, Peking University
   * Mentor: Lei Xue
 * Summer 2024: AI for Mathematics Summer Camp
@@ -30,8 +30,12 @@ Skills
 
 Awards and Scholarship
 ======
+* 2025
+  * Naixin Zhang Scholarship, Peking University
+  * Excellent Research Award, Peking University
 * 2024
-  * Yang Xin Lotus Virtue Awards, Peking University
+  * Yang Xin Lotus Virtue Award, Peking University
+  * Excellent Learning Award, Peking University
 
 <!--
 Publications
