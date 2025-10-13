@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year undergraduate student from [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in mathematics at [School of Mathematics](https://www.math.pku.edu.cn).
+I am a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in mathematics at [School of Mathematics](https://www.math.pku.edu.cn).
 
-My current research interests are algebraic combinatorics. And I want to do something in mathematical physics, algebraic geometry and number theory in the future.
+My current research interests are algebraic combinatorics. I'm also interested in mathematical physics, algebraic geometry and number theory .
 
-Meanwhile, I'm seek for opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
+Meanwhile, I'm seeking for opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
 
 I enjoy travelling, hiking, music and occult.
 You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part.
