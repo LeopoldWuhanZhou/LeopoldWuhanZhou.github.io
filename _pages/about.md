@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in mathematics at [School of Mathematics](https://www.math.pku.edu.cn).
+I am a third-year undergraduate student at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in mathematics at the [School of Mathematics](https://www.math.pku.edu.cn).
 
 My current research interests are algebraic combinatorics. I'm also interested in mathematical physics, algebraic geometry and number theory .
 
