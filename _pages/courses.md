@@ -29,6 +29,7 @@ redirect_from:
 * Design of Digital Circuits and Systems ([Lab](https://github.com/LeopoldWuhanZhou/Design-of-Digital-Circuits-and-Systems))
 * Basic Electronics Lab ([Lab 9](https://github.com/LeopoldWuhanZhou/UART))
 * [Basic Training of Electronics System](https://github.com/LeopoldWuhanZhou/Basic-Training-of-Electronics-System)
+* Rock Climbing
 
 2024 Fall
 ======
@@ -54,7 +55,6 @@ redirect_from:
 * Foundations and Advances in Synthetic Biology ([Slides](https://leopoldwuhanzhou.github.io/files/genomic.pdf))
 * National Relations of Middle East
 
-
 2023 Fall
 ======
 * Advanced Mathematics A (I)
@@ -62,3 +62,4 @@ redirect_from:
 * Physics for Information Sciences (I)
 * Introduction to Computation A
 * Introduction to Information Science and Technique
+* Shadowboxing
