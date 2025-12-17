@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-* **Neighborhood Complexes of induced $k$-independent graphs.** 2025. with Yufeng Shen, Zhiyu Song, Fenglin Yu, Jingqi Zhuang. [[arXiv](https://arxiv.org/abs/2510.22574)]
 
-* **Homotopy type of total cut complexes of squared cycle graphs.** 2025. with Yufeng Shen, Zhiyu Song, Fenglin Yu, Jingqi Zhuang. [[arXiv](https://arxiv.org/abs/2512.09674)]
+* **Realizations and Uniqueness of Cut Complexes of Graphs**2025. with Yufeng Shen, Zhiyu Song, Fenglin Yu, Jingqi Zhuang. [[arXiv](https://arxiv.org/abs/2512.12933)]
+
+* **Neighborhood Complexes of Induced** $k$**-independent Graphs.** 2025. with Yufeng Shen, Zhiyu Song, Fenglin Yu, Jingqi Zhuang. [[arXiv](https://arxiv.org/abs/2510.22574)]
+
+* **Homotopy Type of Total Cut Complexes of Squared Cycle Graphs.** 2025. with Yufeng Shen, Zhiyu Song, Fenglin Yu, Jingqi Zhuang. [[arXiv](https://arxiv.org/abs/2512.09674)]
