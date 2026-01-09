@@ -17,7 +17,7 @@ All the notes are unfinished. If you're interested and would like to finish them
 * [Functions of Real Variables](/files/RealAnalysis.pdf)
 * [Quantum Mechanics B](/files/QM.pdf)
 * [Electrodynamics B](/files/Electrodynamics.pdf)
-* [Thermodynamics and Statistical Mechanics B](/files/StatisticsPhysics.pdf)
+* [Thermodynamics and Statistical Mechanics B](/files/StatisticalPhysics.pdf)
 * Judo
 
 2025 Spring
