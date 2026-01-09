@@ -31,11 +31,11 @@ Skills
 Awards and Scholarship
 ======
 * 2025
-  * Naixin Zhang Scholarship, Peking University
-  * Excellent Research Award, Peking University
+  * Zhang Naixin Scholarship, Peking University
+  * Award for Scientific Research, Peking University
 * 2024
-  * Yang Xin Lotus Virtue Award, Peking University
-  * Excellent Learning Award, Peking University
+  * Yang Xin Lotus Virtue Awards, Peking University
+  * Award for Academic Excellence, Peking University
 
 <!--
 Publications
