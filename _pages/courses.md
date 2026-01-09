@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+All the notes are unfinished. If you're interested and would like to finish them, please contact me.
+
 2025 Fall
 ======
-* Differential Geometry
-* [Topology](https://www.math.pku.edu.cn/teachers/wangjj/2025fall/index.html)
-* Functions of Real Variables
-* Quantum Mechanics B
-* Electrodynamics B
-* Thermodynamics and Statistical Mechanics B
+* [Differential Geometry](/files/DifferentialGeometry.pdf)
+* [Topology](https://www.math.pku.edu.cn/teachers/wangjj/2025fall/index.html)([Notes](/files/Topology.pdf))
+* [Functions of Real Variables](/files/RealAnalysis.pdf)
+* [Quantum Mechanics B](/files/QM.pdf)
+* [Electrodynamics B](/files/Electrodynamics.pdf)
+* [Thermodynamics and Statistical Mechanics B](/files/StatisticsPhysics.pdf)
 * Judo
 
 2025 Spring
