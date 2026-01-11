@@ -9,12 +9,12 @@ redirect_from:
 
 I am a third-year undergraduate student at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in mathematics at the [School of Mathematics](https://www.math.pku.edu.cn).
 
-My current research interests are algebraic combinatorics. I'm also interested in mathematical physics, algebraic geometry and number theory .
+My current research interests are algebraic combinatorics and mathematical physics. I'm also interested in algebraic geometry and number theory and other problems with a combinatorics or physics background.
 
-Meanwhile, I'm seeking for opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
+I am seeking PhD opportunities starting in Fall 2027！ Meanwhile, I'm seeking opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
 
 I enjoy travelling, hiking, music and occult.
-You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part.
+You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part. Recently, I found judo interesting.
 
 My Chinese name is 周无寒. The name Leopold comes from [Leopold Fitz](https://en.wikipedia.org/wiki/Leo_Fitz), who is one of S.H.I.E.L.D.'s top scientific minds.
 
