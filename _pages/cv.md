@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here is a PDF version. [[CV](\files\CV.pdf)]
+Here is a PDF version. [[CV](/files/CV.pdf)]
 
 Education
 ======
