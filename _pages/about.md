@@ -11,7 +11,7 @@ I am a third-year undergraduate student at the [School of EECS](https://eecs.pku
 
 My current research interests are algebraic combinatorics and mathematical physics. I'm also interested in algebraic geometry and number theory and other problems with a combinatorics or physics background.
 
-I am seeking PhD opportunities starting in Fall 2027！ Meanwhile, I'm seeking opportunities in Quantitative Trading, Crypto, Web3 and Blockchain.
+I am seeking PhD opportunities starting in Fall 2027！
 
 I enjoy travelling, hiking, music and occult.
 You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part. Recently, I found judo interesting.
