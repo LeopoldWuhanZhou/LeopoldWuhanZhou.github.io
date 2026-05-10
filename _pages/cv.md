@@ -13,10 +13,17 @@ Here is a PDF version. [[CV](/files/CV.pdf)]
 Education
 ======
 * 2023-2027(expected) B.S. in Electronic and Information Science and Technology, Peking University
+* 2023-2027(expected) B.S. in Mathematics, Peking University
 * 2020-2023 Zhenhai High School
 
 Experience
 ======
+
+* Summer 2026: [Mathematics REU](https://math.uchicago.edu/~may/REU2026/)
+  * University of Chicago
+* January 2026 - Present REU on Stokes Phenomenon
+  * School of Mathematics, Peking University
+  * Mentor: Xiaomeng Xu
 * Summer 2025: [PKU Algebraic Combinatorics Experience (PACE)](http://faculty.bicmr.pku.edu.cn/~gaoyibo/reu.html)
   * Beijing International Center for Mathematical Research, Peking University
   * Mentor: Lei Xue
@@ -37,6 +44,12 @@ Awards and Scholarship
 * 2024
   * Yang Xin Lotus Virtue Awards, Peking University
   * Award for Academic Excellence, Peking University
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
 
 <!--
 Publications
