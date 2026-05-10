@@ -12,11 +12,11 @@ All the notes are unfinished. If you're interested and would like to finish them
 
 2026 Spring
 ======
-* [Ordinary Differential Equations]
-* [Introduction to Differentiable Manifolds]
-* [Groups and Representations]
-* [Lie Groups and Lie Algebras]
-* [Optoelectronics]
+* Ordinary Differential Equations
+* Introduction to Differentiable Manifolds
+* Groups and Representations
+* Lie Groups and Lie Algebras
+* Optoelectronics
 
 2025 Fall
 ======
