@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}
 All the notes are unfinished. If you're interested and would like to finish them, please contact me.
 
+2026 Spring
+======
+* [Ordinary Differential Equations]
+* [Introduction to Differentiable Manifolds]
+* [Groups and Representations]
+* [Lie Groups and Lie Algebras]
+* [Optoelectronics]
+
 2025 Fall
 ======
 * [Differential Geometry](/files/DifferentialGeometry.pdf)
