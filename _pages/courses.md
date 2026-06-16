@@ -16,7 +16,7 @@ All the notes are unfinished. If you're interested and would like to finish them
 * Introduction to Differentiable Manifolds
 * Groups and Representations
 * Lie Groups and Lie Algebras
-* [Optoelectronics] (/files/opto.pdf)
+* [Optoelectronics](/files/opto.pdf)
 
 2025 Fall
 ======
