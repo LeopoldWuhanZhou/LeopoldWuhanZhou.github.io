@@ -21,6 +21,7 @@ Experience
 
 * Summer 2026: [Mathematics REU](https://math.uchicago.edu/~may/REU2026/)
   * University of Chicago
+  * Mentor: Aman Panigrahi
 * January 2026 - Present REU on Stokes Phenomenon
   * School of Mathematics, Peking University
   * Mentor: Xiaomeng Xu
