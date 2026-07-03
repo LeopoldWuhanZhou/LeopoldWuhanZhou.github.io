@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 All the notes are unfinished. If you're interested and would like to finish them, please contact me.
 
+2026 Summer
+======
+* [Functional Inequalities for Probability Measures](/files/FIPM.pdf)
+* Fractal geometry and Kolmogorov complexity
+
 2026 Spring
 ======
 * Ordinary Differential Equations
