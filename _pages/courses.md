@@ -14,6 +14,7 @@ All the notes are unfinished. If you're interested and would like to finish them
 ======
 * [Functional Inequalities for Probability Measures](/files/FIPM.pdf)
 * [Quivers](/files/quivers.pdf)
+* [Duality in Category Theory](/files/cat.pdf)
 
 2026 Spring
 ======
