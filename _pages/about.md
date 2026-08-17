@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in Mathematics at the [School of Mathematics](https://www.math.pku.edu.cn).
+I am a fourth-year undergraduate student at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My major is Electronic Information Science and Technology and I am pursuing a double major in Mathematics at the [School of Mathematics](https://www.math.pku.edu.cn).
 
 Previously, my research interests were algebraic combinatorics, mathematical physics and other problems with a combinatorics or physics background.
 
 Now, I'm interested in AI and financial mathematics, especially those problem with strong math background.
 
-I am seeking Master opportunities starting in Fall 2027！ Meanwhile, I'm seeking internship opportunities in Quantitative Trading and AI.
+I am seeking internship and job opportunities in Quantitative Trading and AI.！ Meanwhile, I will apply for Master programs starting in Fall 2027.
 
 I enjoy travelling, hiking, music and occult.
 You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part. Recently, I found judo interesting.
