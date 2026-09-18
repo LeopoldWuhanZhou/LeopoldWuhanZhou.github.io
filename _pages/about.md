@@ -17,7 +17,7 @@ I am seeking internship and job opportunities in Quantitative Research and Tradi
 
 I enjoy travelling, hiking, music and occult. Recently, I found judo interesting. 
 
-You can find some travelogues in the [Blog Posts](https://leopoldwuhanzhou.github.io/year-archive/) part. For me, travelling and occult are two ways to explore the mysterious world. I particularly enjoy taking public transportation to explore remote, dangerous, and mysterious places.
+You can find some travelogues in the [Blog Posts](https://leopoldwuhanzhou.github.io/year-archive/) part. For me, travelling and occult are two ways to explore the mysterious world. I particularly enjoy taking public transportation to explore remote, dangerous and mysterious places.
 
 I love K-pop and hip-hop. My favorite singers and groups include G.E.M. Tang Tsz-kei, Blackpink, aespa, IVE and so on.
 
