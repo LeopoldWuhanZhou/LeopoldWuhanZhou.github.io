@@ -13,11 +13,14 @@ Previously, my research interests were algebraic combinatorics, mathematical phy
 
 Now, I'm interested in AI and financial mathematics, especially those problem with strong math background.
 
-I am seeking internship and job opportunities in Quantitative Trading and AI！ Meanwhile, I will apply for Master programs starting in Fall 2027.
+I am seeking internship and job opportunities in Quantitative Research and Trading！ Meanwhile, I will apply for Master programs starting in Fall 2027.
 
-I enjoy travelling, hiking, music and occult.
-You can find some travel literature in the [Blog Posts](https://pkublink.github.io/year-archive/) part. Recently, I found judo interesting.
+I enjoy travelling, hiking, music and occult. Recently, I found judo interesting. 
+
+You can find some travelogues in the [Blog Posts](https://leopoldwuhanzhou.github.io/year-archive/) part. For me, travelling and occult are two ways to explore the mysterious world. I particularly enjoy taking public transportation to explore remote, dangerous, and mysterious places.
+
+I love K-pop and hip-hop. My favorite singers and groups include G.E.M. Tang Tsz-kei, Blackpink, aespa, IVE and so on.
 
 My Chinese name is 周无寒. The name Leopold comes from [Leopold Fitz](https://en.wikipedia.org/wiki/Leo_Fitz), who is one of S.H.I.E.L.D.'s top scientific minds.
 
-Please feel free to contact me!
+Please feel free to contact me! If you us WeChat, click [here](/images/wechat.JPG)!
