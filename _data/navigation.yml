@@ -14,21 +14,20 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Friends"
+    url: /friends/
+
   #- title: "Teaching"
     #url: /teaching/    
     
   #- title: "Portfolio"
     #url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+    #url: /year-archive/
     
   - title: "CV"
     url: /cv/
-
-  - title: "Friends"
-    url: /friends/
     
   #- title: "Guide"
     #url: /markdown/
-
