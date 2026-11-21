@@ -18,16 +18,18 @@ Education
 
 Experience
 ======
-
+* November 2026 - Present Undergradute Thesis on Online Scheduling for Multi-Agent LLM Serving
+  * School of Electronics, Peking University
+  * Advisor: Jianan Zhang
 * Summer 2026: [Mathematics REU](https://math.uchicago.edu/~may/REU2026/)
   * University of Chicago
   * Mentor: Aman Panigrahi
 * January 2026 - October 2026: [REU on Stokes Phenomenon](https://leopoldwuhanzhou.github.io/files/Stokes_Phenomenon.pdf)
   * School of Mathematics, Peking University
-  * Mentor: Xiaomeng Xu
+  * Advisor: Xiaomeng Xu
 * Summer 2025: [PKU Algebraic Combinatorics Experience (PACE)](http://faculty.bicmr.pku.edu.cn/~gaoyibo/reu.html)
   * Beijing International Center for Mathematical Research, Peking University
-  * Mentor: Lei Xue
+  * Advisor: Lei Xue
 * Summer 2024: AI for Mathematics Summer Camp
   * Beijing International Center for Mathematical Research, Peking University
   * Write Lean programs and learn abstract algebra
@@ -39,20 +41,24 @@ Skills
 
 Awards and Scholarship
 ======
+* 2026
+  * Chen Shouren Undergraduate International Exchange Fund, Peking University
+  * China Merchants Securities Scholarship, Peking University
+  * Award for Scientific Research, Peking University
 * 2025
   * Zhang Naixin Scholarship, Peking University
   * Award for Scientific Research, Peking University
 * 2024
   * Yang Xin Lotus Virtue Awards, Peking University
   * Award for Academic Excellence, Peking University
-
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-<!--
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
