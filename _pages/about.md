@@ -13,6 +13,8 @@ Previously, my research interests were algebraic combinatorics, mathematical phy
 
 Now, I'm interested in AI and financial mathematics.
 
+My undergradute thesis is on online scheduling for multi-Agent LLM serving, advised by [Jianan Zhang](https://jianan-z.github.io)
+
 I am seeking internship and job opportunities in Quantitative Research and Trading！ Meanwhile, I will apply for Master programs starting in Fall 2027.
 
 I enjoy travelling, hiking, music and occult. Recently, I found judo interesting. 
